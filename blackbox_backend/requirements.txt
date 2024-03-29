@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-phonenumber-field
+django-phonenumbers
+django-safedelete
+django-cors-headers
+mysql-connector-python
+mysqlclient
+

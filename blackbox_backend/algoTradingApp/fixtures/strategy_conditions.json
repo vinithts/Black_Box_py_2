@@ -1,0 +1,15 @@
+[
+    {
+        "model" : "algoTradingApp.strategyConditions",
+        "pk" : 1,
+        "fields" : {
+            "strategyId_id" : 1,
+            "description" : "test",
+            "type" : "ENTRY",
+            "conditionType" : "TIME",
+            "conditionConfig" : "0.01",
+            "createdAt" : "2023-06-03 17:25:53",
+            "updatedAt" : "2023-06-03 17:25:53"
+        }
+    }
+]

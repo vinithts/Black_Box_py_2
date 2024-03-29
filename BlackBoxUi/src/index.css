@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+  filter: invert(58%) sepia(33%) saturate(0%) hue-rotate(0deg) grayscale(100) brightness(100%);
+margin-right: 7px;
+}
